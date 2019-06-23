@@ -58,7 +58,7 @@ wget -O /usr/bin/sprov-ui -N --no-check-certificate https://download.o2oyc.com/s
 ```
 或
 ```
-wget -O /usr/bin/sprov-ui -N --no-check-certificate https://raw.githubusercontent.com/seedc/sprov-ui/master/install.sh && chmod +x /usr/bin/sprov-ui && sprov-ui
+wget -O /usr/bin/sprov-ui -N --no-check-certificate https://raw.githubusercontent.com/small2star/sprov-ui/master/install.sh && chmod +x /usr/bin/sprov-ui && sprov-ui
 
 ```
 # 常见问题
